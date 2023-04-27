@@ -6,4 +6,4 @@ With functions, loops, arrays and other variables, this is a great project for J
 
 Hangman is a popular yet grim puzzle game. A cruel computer hides a word from you, which you try to guess letter by letter. If you fail, you'll be “hanged”. If you win, you'll survive. You’ve probably played the game at least once or twice. Now you can actually create this game yourself!
 
-![video](https://stepik.org/media/attachments/lesson/746995/demonstration.mp4)
+![video](https://stepik.org/media/attachments/lesson/746995/demonstration.mov)
